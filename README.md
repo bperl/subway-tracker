@@ -56,11 +56,6 @@ Then open index.html in the root directory.
 
 Latest version is always available under the master branch in this repository. 
 
-## Authors
-
-* Zali Perlow
-* Joe Cha - https://github.com/bother7
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
