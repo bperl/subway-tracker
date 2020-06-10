@@ -51,7 +51,7 @@ GEM
     concurrent-ruby (1.0.5)
     erubi (1.6.1)
     ffi (1.9.18)
-    geocoder (1.4.4)
+    geocoder (1.6.1)
     globalid (0.4.0)
       activesupport (>= 4.2.0)
     gtfs-realtime-bindings (0.0.5)
